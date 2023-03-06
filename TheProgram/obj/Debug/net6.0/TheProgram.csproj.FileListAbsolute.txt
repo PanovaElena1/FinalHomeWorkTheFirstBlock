@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\bin\Debug\net6.0\TheProgram.exe
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\bin\Debug\net6.0\TheProgram.deps.json
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\bin\Debug\net6.0\TheProgram.runtimeconfig.json
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\bin\Debug\net6.0\TheProgram.dll
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\bin\Debug\net6.0\TheProgram.pdb
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\TheProgram.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\TheProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\TheProgram.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\TheProgram.AssemblyInfo.cs
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\TheProgram.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\TheProgram.dll
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\refint\TheProgram.dll
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\TheProgram.pdb
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\TheProgram.genruntimeconfig.cache
+C:\Users\1\Desktop\Домашние задания GB\FinalHomeworkFirstBlock\TheProgram\obj\Debug\net6.0\ref\TheProgram.dll
